@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Encore",
+  "accentColor": "",
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
+}

@@ -1,0 +1,1 @@
+A feature vector consists of N dimensions. Each dimensions $j = 1,\dots,D$ contains a value that describes an attributes. We call this value a 'feature' and it's denoted by $x^{j}$. 
